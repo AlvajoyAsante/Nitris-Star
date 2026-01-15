@@ -1,2 +1,2 @@
-# Nitrous-Star
+# Nitris-Star
 A Fast Paced Street Racing Game
