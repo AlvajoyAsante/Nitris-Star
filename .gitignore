@@ -1,5 +1,6 @@
 # Excluded folders
 /.vs/
+/.vscode/
 /Temp
 [Bb]in/
 [Bb]uild/
