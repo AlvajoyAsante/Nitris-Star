@@ -5,12 +5,15 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Racing Starter Kit/RSK Assets/Scenes/SampleScene 1.unity
     guid: a1d7d8d0a58d46947b6fc077506a1e98
-  - enabled: 1
+  - enabled: 0
     path: Assets/Racing Starter Kit/RSK Assets/Scenes/Level 0.unity
     guid: adc28652a668a9646b0352d63f41b808
+  - enabled: 1
+    path: Assets/Racing Starter Kit/RSK Assets/Scenes/Level 1.unity
+    guid: ec9e5188c591b2c44a7382a80987e72d
   m_configObjects:
     com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f,
       type: 2}
